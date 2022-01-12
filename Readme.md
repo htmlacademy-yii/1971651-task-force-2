@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Павел](https://up.htmlacademy.ru/yii/2/user/1971651).
-* Наставник: [Александр Смиркин](https://htmlacademy.ru/profile/id1411277).
+* Наставник: [Даниил Стерликов](https://htmlacademy.ru/profile/id1588317).
 
 ---
 
