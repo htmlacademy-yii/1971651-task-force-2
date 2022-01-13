@@ -1,7 +1,8 @@
 <?php
-    spl_autoload_register(function ($class_name) {
-        include "{$class_name}.php";
-    });
+    require_once "vendor/autoload.php";
+
+    use Taskforce\Task\Task;
+    use Taskforce\Task\TaskInterface;
 
     $task = new Task(1,1);
 

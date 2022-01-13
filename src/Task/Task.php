@@ -1,5 +1,7 @@
 <?php
 
+    namespace Taskforce\Task;
+
     class Task implements TaskInterface
     {
         private int $workerId;
